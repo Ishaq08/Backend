@@ -1,0 +1,14 @@
+// what type of data can be stored ?
+//mongoose helper
+// prisma helper
+//moon modeler
+//eraser.io
+
+//codeSandBox
+//github codespaces
+//stackblitz
+
+
+
+
+
