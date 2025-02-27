@@ -1,0 +1,2 @@
+images are stored in database in Buffer formate , but usually stord in your own server Or stored in third party services is used
+ cloudinary stored images and videos and give you a URL 
